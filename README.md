@@ -5,6 +5,8 @@ This repository contains the implementation of the paper [Model-Informed Flows f
 ## Installation
 
 ```bash
+git clone https://github.com/joohwanko/Model-Informed-Flow.git
+cd Model-Informed-Flow
 uv sync
 ```
 
